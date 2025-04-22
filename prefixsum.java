@@ -16,6 +16,5 @@ prefixSum[0] = array[0];
         System.out.println("]");
     }
 }
-Output:
-Prefix Sum: [1, 3, 6, 10]
+
 
